@@ -1,9 +1,13 @@
 # Projeto Humanis
 
-### Sobre o que é? 
-Chatbot voltado para cuidadores de idosos com alzheimer, com a finalidade de instruir e servir de conforto para os cuidadores não profissionais
+### Autores
+Os autores desse projeto são Laura Lisbôa e Vitor Colombiano, ambos alunos da Universidade Federal de São Paulo.
+Com a finalidade de desenvolver um projeto final para a disciplina de Inteligência Artificial, formaram uma dupla durante três meses para obter resultados diante dos conhecimentos colocados em práticas.  
 
-### Técnologias usadas
+### Sobre o que é? 
+Chatbot voltado para cuidadores de idosos com Alzheimer, com a finalidade de instruir e servir de conforto para os cuidadores não-profissionais. 
+
+### Tecnologias usadas
 ```bash
 Google Colab
 Python
