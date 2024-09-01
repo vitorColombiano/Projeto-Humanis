@@ -19,6 +19,7 @@ Maritalk API
   OPENAI_API_KEY="your_api_key"
   MARITALK_API_KEY="your_api_key"
 ```
+
 2. Rodar a célula Streamlit para gerar o arquivo app.py
    
 4. Extrair o IP do colab
