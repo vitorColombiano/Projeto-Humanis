@@ -36,6 +36,9 @@ Maritalk API
    ```
 6. Entrar no link e colar o IP do colab na senha
 
+### Links sobre o projeto
+Para acessor nossa apresentação entre no [link](https://www.canva.com/design/DAGNrhdoEI8/NJsopshRf0OuOtMAYpvuyg/edit?utm_content=DAGNrhdoEI8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) e para acessar nossa base de dados acesse esse [drive](https://drive.google.com/drive/folders/1tG4bflIjV4JhitL6aPCUZAg3GVHPT3Wl).
+
 ### Imagem do Humanis
 [streamlit-app-2024-09-01-16-09-21.webm](https://github.com/user-attachments/assets/fca3cf25-3588-445e-a0e4-16afef210fba)
 
